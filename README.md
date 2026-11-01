@@ -19,4 +19,5 @@ Problemas: he probado de varias formas (evento Component Hit e isOverlapping) ta
 4. Mr. Potato: reconstruye al señor Potato con diferentes piezas. Coge la parte que le quieras añadir y suéltala cerca del cuerpo del Sr. Potato.
 
 ** He ajustado los componentes Grab de cada uno de los objetos para que cuando los cojas con la mano izquierda, estén orientados, añadiendo realismo.
+
 ** Se desactiva la opción de Nanite del proyecto y de cada uno de los objetos rompibles de la escena. Asimismo, se desactiva la opción Bone Colors de las estatuas para que muestre su textura en tiempo de ejecución. 
